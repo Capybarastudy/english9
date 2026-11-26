@@ -8,4 +8,4 @@
 - SB p. 34: Anzeigen A Apprentice photographer, B Bright Sparks Electricians, C Marketing apprentice.
 - SB p. 40: Bewerbung Claire Simpson (4 Absätze) und CV.
 - Zeilennummern liegen nicht vor; das Spiel verweist deshalb auf Absätze („Paragraph 1–4“). TODO: Absatzgrenzen mit dem gedruckten Buch abgleichen.
-- Kriterien (Räume 4–7) stammen aus dem Lernpfad `lernpfade/application/` und dem Beurteilungsraster zum Guided Writing; Text der SB p. 50–51 lag nicht vor (TODO).
+- Kriterien (Räume 4–7) stammen aus dem Lernpfad `lernpfade/application/` und dem Beurteilungsraster zum Guided Writing; SB p. 51 (Struktur des Briefs, keine Kurzformen, ca. 200 Wörter) liegt als Screenshot vor.
