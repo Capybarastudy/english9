@@ -12,5 +12,8 @@ Interaktive Escape Games für den Englischunterricht (Klasse 9, Red Line Bayern)
 ## Spiele
 - Great Barrier Reef in danger (Unit 1, Text 2) – `games/great-barrier-reef/`
 
+## Lernpfade
+- Application Toolkit (Unit 2, Text 1 und Topic 2): Lernpfad zum Bewerbungsschreiben mit Bezug zu den Kriterien des Guided Writing – `lernpfade/application/` (Konzept: `materials/lernpfad-application/konzept.md`)
+
 ## Hinweis
 Keine Buchscans oder kompletten Buchtexte in dieses Repository hochladen – die Spiele verweisen auf das Schülerbuch mit Seiten- und Zeilenangaben.
