@@ -1,6 +1,6 @@
 # Unterrichtskontext – SPARK! Blackout at Bright Sparks
 
-- Unit 2 „The world of work“, Topic 1 (SB p. 34, Stellenanzeigen A–C) und Topic 2 (SB p. 40, Claires Bewerbung an Mr Pitt, Bright Sparks Electricians, mit CV).
+- Unit 2 „The world of work“, Topic 1 (SB p. 34, Stellenanzeigen A–C) und Topic 2 (SB p. 40 und 50, Claires Bewerbung an Mr Pitt, Bright Sparks Electricians, mit CV).
 - Wiederholung und Vertiefung nach den Stunden zu „Looking for a job“ und „A job application“; zugleich Vorbereitung auf das Guided Writing der Abschlussprüfung (Inhaltspunkte, Details, Linking, Grammatik, Register, Wortzahl).
 - Klasse 9b, 31 SuS, Teams von 4–5 an einem iPad, Schülerbuch offen, ca. 40 Minuten.
 
