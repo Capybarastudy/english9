@@ -15,3 +15,7 @@ Ziel: Die Kriterien des Guided Writing (Abschlussprüfung) wachsen Stufe für St
 | 9 Komplette Bewerbung | SB 43/9, 51/3 | alle, Textlänge ca. 200 Wörter |
 
 Hinweis: Die Rückmeldungen und Aufgaben in `lernpfade/application/index.html` sind eigene Beispiele. Prüfungsraster und Beispieltexte werden nicht abgelegt. Lösungen der Mini-Aufgaben liegen als SHA-256-Hashes in der Seite.
+
+
+## Stand Nov. 2026 (Überarbeitung)
+Neun Stufen mit je Lernteil (Beispiele, Tabellen, Strukturgrafiken) und vier Übungsfragen. Punkte: 3 beim ersten Versuch, 2 beim zweiten, 1 beim dritten, insgesamt 108; Sterne je Stufe (ab 80 % drei, ab 55 % zwei), Rang (Rookie, Apprentice writer, Application pro, Star applicant). Zeilenangaben zu SB 50: Anzeige ll. 1–11, Brief Beginn ll. 7–8, Skills ll. 9–13, Qualities ll. 14–18, Reasons ll. 19–20, Frage l. 20, Ende l. 21. Speicherschlüssel `english9-application-toolkit-v2`.
