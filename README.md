@@ -1,15 +1,15 @@
-# Englisch 9 – Escape Games
+# english9 – Englisch Klasse 9
 
-Interaktive Escape Games für den Englischunterricht (Klasse 9, Red Line Bayern), gebaut mit Claude Code.
+Digitale Materialien für den Englischunterricht in Klasse 9 (Realschule Bayern, Red Line Bayern 5), gebaut mit Claude Code: Escape Games, Lernpfade und weitere iPad-Übungen.
 
 ## Aufbau
-- `CLAUDE.md` – feste Regeln für alle Spiele (Claude Code liest sie automatisch)
+- `CLAUDE.md` – feste Regeln für alle Materialien (Claude Code liest sie automatisch)
 - `materials/<thema>/` – Fakten (mit Zeilenangaben), Wortschatz, Unterrichtskontext
 - `prompts/<thema>.md` – der Auftrag für Claude Code
 - `games/<thema>/index.html` – das fertige Spiel
 - `games/<thema>/LOESUNG.md` – Lösungen und Hinweise für die Lehrkraft
 
-## Spiele
+## Escape Games
 - Great Barrier Reef in danger (Unit 1, Text 2) – `games/great-barrier-reef/`
 
 ## Lernpfade
