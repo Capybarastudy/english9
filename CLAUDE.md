@@ -1,8 +1,8 @@
-# CLAUDE.md – Escape Games für Englisch, Klasse 9 (Realschule Bayern)
+# CLAUDE.md – english9: Englisch Klasse 9 (Realschule Bayern)
 
-Diese Datei liest Claude Code bei jeder Sitzung automatisch. Sie gilt für **alle** Spiele in diesem Repository.
+Diese Datei liest Claude Code bei jeder Sitzung automatisch. Sie gilt für **alle** Materialien in diesem Repository (Escape Games unter `games/`, Lernpfade unter `lernpfade/`, weitere Rubriken folgen). Die technischen Regeln gelten für jede digitale Seite; Abschnitte zu Story, Timer und Teams gelten nur für Escape Games.
 
-## Wer ich bin und wofür die Spiele sind
+## Wer ich bin und wofür die Materialien sind
 - Ich unterrichte Englisch in einer 9. Klasse (Realschule, Bayern), Lehrwerk **Red Line Bayern** (Band 5, Kl. 9).
 - Sprachniveau der Klasse: ungefähr **B1**. Klasse 9b, 31 Schülerinnen und Schüler.
 - Alle Schüler arbeiten auf **iPads (Safari)**. Gespielt wird in **Teams von 4–5 Personen an einem iPad**, das Schülerbuch liegt offen daneben.
