@@ -11,6 +11,7 @@ Digitale Materialien für den Englischunterricht in Klasse 9 (Realschule Bayern,
 
 ## Escape Games
 - Great Barrier Reef in danger (Unit 1, Text 2) – `games/great-barrier-reef/`
+- SPARK! Blackout at Bright Sparks (Unit 2, Topic 1 und 2: Stellenanzeigen und Bewerbung) – `games/bright-sparks/`
 
 ## Lernpfade
 - Application Toolkit (Unit 2, Text 1 und Topic 2): Lernpfad zum Bewerbungsschreiben mit Bezug zu den Kriterien des Guided Writing – `lernpfade/application/` (Konzept: `materials/lernpfad-application/konzept.md`)
